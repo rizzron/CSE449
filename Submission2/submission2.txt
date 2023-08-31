@@ -1,0 +1,17 @@
+Link to unlisted YouTube video:
+https://youtu.be/y3C3P4IV3AA
+
+Public link to the slide (Anyone on the internet can view without login):
+https://drive.google.com/file/d/1XeuVJzuP_WPPOJiIyQps8B4gkBG7dFzl/view?usp=sharing
+
+Paper title:
+Bangla Handwritten Characters Recognition Using Convolutional Neural Network
+
+Link to the paper:
+https://ieeexplore.ieee.org/document/8858545
+
+Group Number:
+7
+
+Individual Submitter:
+16201084 MD Tanjim Mostafa
